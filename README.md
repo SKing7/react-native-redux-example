@@ -1,15 +1,8 @@
 React Native Redux Example
 ======================================================
 
-## Stack Information
-- [React Native](https://facebook.github.io/react-native/): app framework
-- [Redux](http://redux.js.org/): predictable state container
-- [ESLint](http://eslint.org/): code rules and linting
-- [Flow](https://flowtype.org/): static type checking
-- [React Native Storybook](https://github.com/storybooks/react-native-storybook): isolated component development
-- [Jest](https://facebook.github.io/jest/): testing framework
-- [Enzyme](https://github.com/airbnb/enzyme): react testing utility
-
+## Description
+This is a example repo for showing how to use Redux with React Native. This example makes a simple API call to the Dark Sky Api to display today's weather. [Here](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.bultwm53oa) is an article explaning thenon redux way of doing something and comparing it to a redux version that is similar to the setup in this repo 
 
 ## Pre Installation
 Please follow `Installing Dependencies` section found [here](https://facebook.github.io/react-native/docs/getting-started.html)

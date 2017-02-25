@@ -2,15 +2,15 @@
 
 import React from 'react';
 import { Provider } from 'react-redux';
-import Router from './containers/router/router';
 import configureStore from './store/configureStore';
+import WeatherContainer from './containers/weather-container/weather-container';
 
 // Store & Router
 const store = configureStore({});
 
 const app = () => (
   <Provider store={store}>
-    <Router />
+    <WeatherContainer />
   </Provider>
 );
 
