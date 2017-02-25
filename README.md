@@ -18,8 +18,8 @@ Also follow the rest of the setup for both ios and android in order to have your
 ## Installation
 
 ```
-$ git clone https://github.com/bighuman/cookn-app.git
-$ cd cookn-app
+$ git clone git@github.com:jmoses89/react-native-redux-example.git
+$ cd react-native-redux-example
 $ npm install
 ```
 
