@@ -1,0 +1,11 @@
+{
+"presets": ["react-native"],
+  "env": {
+    "development": {
+      "plugins": ["flow-react-proptypes"]
+    },
+    "test": {
+      "plugins": ["flow-react-proptypes"]
+    },
+  }
+}
