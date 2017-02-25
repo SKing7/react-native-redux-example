@@ -1,4 +1,4 @@
-React Native Redux Exanmple
+React Native Redux Example
 ======================================================
 
 ## Stack Information
