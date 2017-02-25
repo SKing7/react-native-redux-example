@@ -1,19 +1,17 @@
 // @flow
 
 import React from 'react';
-import { View, StyleSheet } from 'react-native';
+import { Provider } from 'react-redux';
 import Router from './containers/router/router';
+import configureStore from './store/configureStore';
+
+// Store & Router
+const store = configureStore({});
 
 const app = () => (
-  <View style={styles.container}>
+  <Provider store={store}>
     <Router />
-  </View>
+  </Provider>
 );
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
-});
 
 export default app;
