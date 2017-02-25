@@ -2,7 +2,7 @@ React Native Redux Example
 ======================================================
 
 ## Description
-This is a example repo for showing how to use Redux with React Native. This example makes a simple API call to the Dark Sky Api to display today's weather. [Here](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.bultwm53oa) is an article explaning thenon redux way of doing something and comparing it to a redux version that is similar to the setup in this repo. Also check out the [Redux](http://redux.js.org/) docs.
+This is a example repo for showing how to use Redux with React Native. This example makes a simple API call to the Dark Sky Api to display today's weather. [Here](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.bultwm53oa) is an article explaning then non redux way of doing something and comparing it to a redux version that is similar to the setup in this repo. Also check out the [Redux](http://redux.js.org/) docs. Enjoy :) and feel free to contact me with any questions.
 
 ## Pre Installation
 Please follow `Installing Dependencies` section found [here](https://facebook.github.io/react-native/docs/getting-started.html)
