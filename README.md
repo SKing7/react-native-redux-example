@@ -1,6 +1,5 @@
-Cookn App
+React Native REdux Exanmple
 ======================================================
-Codebase for the Cookn react native app
 
 ## Stack Information
 - [React Native](https://facebook.github.io/react-native/): app framework
@@ -96,4 +95,4 @@ describe('TestComponent', () => {
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Brought to you by Big Human
+Brought to you by Jarret Moses
