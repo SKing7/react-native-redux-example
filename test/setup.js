@@ -1,6 +1,6 @@
 // @flow
 
-import { jsdom } from 'jsdom';
+import {jsdom} from 'jsdom';
 
 // The following code allows us to use enzyme's "mount" (without running in an actual browser).
 global.document = jsdom('');

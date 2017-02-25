@@ -23,7 +23,7 @@ const getErrorMessage = () => (
 );
 
 const getWeatherInfo = (weatherInfo) => {
-  const { summary, temperature } = weatherInfo;
+  const {summary, temperature} = weatherInfo;
   return (
     <View style={styles.weatherInfoContainer}>
       <Text style={styles.weatherInfoText}>
