@@ -27,7 +27,7 @@ const getWeatherInfo = (weatherInfo) => {
   return (
     <View style={styles.weatherInfoContainer}>
       <Text style={styles.weatherInfoText}>
-        {`${temperature} deg, ${summary}`}
+        {`${Math.floor(temperature)} deg, ${summary}`}
       </Text>
     </View>
   );
