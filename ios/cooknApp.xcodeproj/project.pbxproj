@@ -1357,6 +1357,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.reactNativeExample;
 				PRODUCT_NAME = cooknApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1375,6 +1376,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.reactNativeExample;
 				PRODUCT_NAME = cooknApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
